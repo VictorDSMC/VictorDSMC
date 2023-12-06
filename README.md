@@ -20,8 +20,8 @@ Tenho 21 anos, moro em Osasco/SP e recentemente ingressei no mundo da programaç
 
 <div align="center">
 <a href="https://github.com/VictorDSMC">
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorDSMC&layout=compact&langs_count=7&theme=graywhite"/>
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=VictorDSMC&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorDSMC&layout=compact&langs_count=7&theme=midnight-purple"/>
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=VictorDSMC&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
  
  <br> 
