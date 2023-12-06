@@ -6,7 +6,7 @@ Tenho 21 anos, moro em Osasco/SP e recentemente ingressei no mundo da programaç
  
  <div align="center">
   
-  ![plink-cat-plink](https://github.com/VictorDSMC/VictorDSMC/assets/151694056/b1d152c0-6a40-4218-bf84-8d9e433aa13b)
+![emo-maripcsas](https://github.com/VictorDSMC/VictorDSMC/assets/137669980/3ae333a8-7726-45db-9e96-74d2e3b9c2d9)
 </div>
 
 <br>
